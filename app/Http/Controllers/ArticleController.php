@@ -31,6 +31,7 @@ class ArticleController extends Controller
     public function create()
     {
         // Pour l'administrateur 
+        return view("admin.produits.ajout_produits");
     }
 
     /**
@@ -42,6 +43,23 @@ class ArticleController extends Controller
     public function store(Request $request)
     {
         // Pour l'administrateur 
+
+        //  dd($request);
+
+        Article::create([
+            'nom' => $request->nom,
+            'description' => $request->description,
+            'prix' => $request->prix,
+            'en_promo' => $request->en_promo,
+            'stock_dispo' => $request->stock_dispo,
+            'prix_promo' => $request->prix_promo,
+            'image_article' => $request->file('image_article')->storeAs('public/images', "img__". rand(), $request->file('image_article')->guessExtension()),
+            'created_at' => now(),
+            'updated_at' => now()
+        ]);
+
+        return redirect(Route('admin.login'));
+
     }
 
     /**

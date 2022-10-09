@@ -2,7 +2,7 @@
   <div class="single-product-item">
     <div class="product-image">
       <a href="{{ Route('detail.produit', $item->id) }}">
-        <img src="{{ asset($item->image_article )}}" alt="{{ $item->image_article }}">
+        <img src="{{ Storage::url($item->image_article)}}" alt="{{ $item->image_article }}">
       </a>
     </div>
     <h3>{{ $item->nom }}</h3>

@@ -23,7 +23,7 @@ Route::get('/boutique', [ArticleController::class, "index"])->name("shop");
 
 Route::get('/detail/{produit}', [ArticleController::class, "show"])->name("detail.produit");
 
-Route::resource('article', ArticleController::class)->only(['store', 'update', 'destroy']);
+Route::resource('article', ArticleController::class)->only([ 'create', 'store', 'update', 'destroy']);
 
 Route::post('/ajouter-au-panier', 
 [PanierController::class, "store"])->middleware(['auth', 'verified'])->name("panier");
@@ -47,6 +47,10 @@ Route::get('/single-blog', function(){ return view("single_blogpost"); })->name(
 Route::get('/faq', function(){ return view("faq"); })->name("faq");
 
 Route::get('/contactez-nous', function(){ return view("contact");})->name("contact");
+
+
+
+Route::get('/admin/login', function () { return view('admin.admin_dashbord'); })->name('admin.login');
 
 
 Route::get('/dashboard', function () {
