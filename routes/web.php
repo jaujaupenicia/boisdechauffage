@@ -41,6 +41,7 @@ Route::resource('article', ArticleController::class)->only([ 'create', 'store', 
 Route::post('/ajouter-au-panier', 
 [PanierController::class, "store"])->middleware(['auth', 'verified'])->name("panier");
 
+
 Route::get('/mon-panier', 
 [PanierController::class, "index"])->middleware(['auth', 'verified'])->name("charrette");
 
@@ -72,8 +73,6 @@ Route::get('/e-chauffage-pro/admin/list-commandes', [AdminController::class, "li
 Route::get('/e-chauffage-pro/admin/list-clients', [AdminController::class, "listClients"])->name("admin.client.list");
 
 Route::resource('/e-chauffage-pro/admin/entreprise', EntrepriseController::class);
-
-
 
 
 Route::get('/dashboard', function () {
