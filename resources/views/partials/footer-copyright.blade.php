@@ -51,7 +51,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
-					<p>Copyrights &copy; 2022 - <a href="https://imransdesign.com/">Jaures Tognon</a>, Tout droit réservé.</p>
+					<p>Copyrights &copy; 2022 - <a href="#">{{ $entrepriseInfos->nom }}</a>, Tout droit réservé.</p>
 				</div>
 				<div class="col-lg-6 text-right col-md-12">
 					<div class="social-icons">
