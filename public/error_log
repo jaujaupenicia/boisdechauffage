@@ -1,0 +1,305 @@
+[02-Nov-2022 12:12:33 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:12:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:12:35 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:12:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:12:37 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:12:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:12:38 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:12:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:13:26 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:13:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:13:27 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:13:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:13:44 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:13:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:16:40 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:16:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:16:52 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:16:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:17:08 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:17:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:06 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:07 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:09 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:09 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:10 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:11 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:12 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:21 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:43 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:18:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:03 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:04 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:05 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:16 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:17 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:18 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:33 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:20:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:46 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:49 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:50 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:50 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:21:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:56 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:57 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:58 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:59 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:35:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:00 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:07 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:08 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:09 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:36:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:42:18 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:42:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:42:20 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:42:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:42:34 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:42:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:34 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:35 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:36 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:36 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:36 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:37 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:37 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:38 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:38 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:40 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:41 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:42 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:42 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:45 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:46 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:43:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:44:00 UTC] PHP Warning:  require(/home2/boisdechau/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/boisdechau/public_html/public/index.php on line 34
+[02-Nov-2022 12:44:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/boisdechau/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/boisdechau/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/boisdechau/public_html/public/index.php on line 34
