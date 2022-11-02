@@ -13,9 +13,9 @@
 					<div class="footer-box get-in-touch">
 						<h2 class="widget-title">Coordonnées</h2>
 						<ul>
-							<li>34/8, East Hukupara, Gifirtok, Sadan.</li>
-							<li>support@fruitkha.com</li>
-							<li>+229 00 00 00</li>
+							<li>{{ $entrepriseInfos->addresse   }}</li>
+							<li>{{ $entrepriseInfos->email_support   }}</li>
+							<li>{{ $entrepriseInfos->telephone   }}</li>
 						</ul>
 					</div>
 				</div>

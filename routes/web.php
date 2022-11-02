@@ -1,10 +1,15 @@
 <?php
 
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PanierController;
 use App\Http\Controllers\AccueilController;
+use App\Http\Controllers\AdminController;
 use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\CommandeController;
+use App\Http\Controllers\EntrepriseController;
+use App\Models\Client;
+use App\Models\EntrepriseInfo;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,6 +21,14 @@ use App\Http\Controllers\CommandeController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+Route::get('/redirect-by-role', function() {
+    $user = Client::find(Auth::user()->getAuthIdentifier());
+    $routeTarget = null;
+    $user->isAdmin ? $routeTarget = "admin.dashboad"  :  $routeTarget = "home" ;
+    return redirect()->intended(Route($routeTarget));
+})->middleware(['auth', 'verified'])->name('roleRedirector');
+
 
 Route::get('/', [AccueilController::class, "echauffageHomeManager"])->name("home");
 
@@ -44,13 +57,23 @@ Route::get('/creer-mon-compte', function(){ return view("register_client");})->n
 
 Route::get('/single-blog', function(){ return view("single_blogpost"); })->name("blogpost");
 
-Route::get('/faq', function(){ return view("faq"); })->name("faq");
+Route::get('/faq', [AccueilController::class, "faq"])->name("faq");
 
-Route::get('/contactez-nous', function(){ return view("contact");})->name("contact");
+Route::get('/contactez-nous', [AccueilController::class, "contact"])->name("contact");
+
+Route::get('/e-chauffage-pro/admin/login', [AdminController::class, "loginAdmin"])->name('admin.login');
+
+Route::get('/e-chauffage-pro/admin', [AdminController::class, "entryAdmin"])->name('admin.dashboad');
+
+Route::get('/e-chauffage-pro/admin/list-produits', [AdminController::class, "listProduct"])->name("admin.product.list");
+
+Route::get('/e-chauffage-pro/admin/list-commandes', [AdminController::class, "listCommandes"])->name("admin.commande.list");
+
+Route::get('/e-chauffage-pro/admin/list-clients', [AdminController::class, "listClients"])->name("admin.client.list");
+
+Route::resource('/e-chauffage-pro/admin/entreprise', EntrepriseController::class);
 
 
-
-Route::get('/admin/login', function () { return view('admin.admin_dashbord'); })->name('admin.login');
 
 
 Route::get('/dashboard', function () {

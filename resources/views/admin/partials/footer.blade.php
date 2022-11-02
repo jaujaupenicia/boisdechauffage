@@ -4,22 +4,22 @@
             <div class="col-6 text-start">
                 <p class="mb-0">
                     <a class="text-muted" href="https://adminkit.io/"
-                        target="_blank"><strong>AdminKit</strong></a> &copy;
+                        target="_blank"><strong>e-chauffage-pro</strong></a> &copy;
                 </p>
             </div>
             <div class="col-6 text-end">
                 <ul class="list-inline">
                     <li class="list-inline-item">
-                        <a class="text-muted" href="https://adminkit.io/" target="_blank">Support</a>
+                        <a class="text-muted" href="#" target="_blank">Boutique</a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="text-muted" href="https://adminkit.io/" target="_blank">Help Center</a>
+                        <a class="text-muted" href="#" target="_blank">Aide</a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="text-muted" href="https://adminkit.io/" target="_blank">Privacy</a>
+                        <a class="text-muted" href="#" target="_blank">Contact</a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="text-muted" href="https://adminkit.io/" target="_blank">Terms</a>
+                        <a class="text-muted" href="#" target="_blank">Terms</a>
                     </li>
                 </ul>
             </div>

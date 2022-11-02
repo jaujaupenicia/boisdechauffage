@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Article;
 use Illuminate\Http\Request;
+use App\Models\EntrepriseInfo;
 use Illuminate\Support\Facades\Redirect;
 
 class ArticleController extends Controller
@@ -15,12 +16,24 @@ class ArticleController extends Controller
      */
     public function index()
     {
-        // Retourne une lite paginée des article de la base 
+        // Retourne une liste paginée des article de la base 
+        $articles = Article::paginate(15);
+        $entrepriseInfos = EntrepriseInfo::find(1);
+
+        if ($articles->currentPage() > $articles->lastPage()) {
+            return Redirect::back();
+        }
+        return view("boutique", compact("articles","entrepriseInfos"));
+    }
+
+    public function adminIndex()
+    {
+        // Retourne une liste paginée des article de la base 
         $articles = Article::paginate(15);
         if ($articles->currentPage() > $articles->lastPage()) {
             return Redirect::back();
         }
-        return view("boutique", compact("articles"));
+        return view("admin.produits.admin_list_produits", compact("articles"));
     }
 
     /**
@@ -58,7 +71,7 @@ class ArticleController extends Controller
             'updated_at' => now()
         ]);
 
-        return redirect(Route('admin.login'));
+        return redirect(Route('admin.dashboad'));
 
     }
 
@@ -74,9 +87,10 @@ class ArticleController extends Controller
         
         // Vue Réservée au client 
         $article = Article::find($articleId);
+        $entrepriseInfos = EntrepriseInfo::find(1);
+        
         $similars = Article::all()->random(3);
-    
-        return view("produit_detail", compact("article", "similars"));
+        return view("produit_detail", compact("article", "similars", "entrepriseInfos"));
 
 
     }

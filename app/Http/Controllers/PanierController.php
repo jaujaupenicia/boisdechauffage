@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Article;
 use Illuminate\Http\Request;
+use App\Models\EntrepriseInfo;
 use Illuminate\Contracts\Session\Session;
 use Symfony\Component\EventDispatcher\EventDispatcher;
 
@@ -27,6 +28,8 @@ class PanierController extends Controller
        $total = 0 ; 
        $remise = 40;
        $cart = session()->get('cart');
+       $entrepriseInfos = EntrepriseInfo::find(1);
+
 
        if ($cart) {
            foreach($cart as $eltCart) {
@@ -34,7 +37,7 @@ class PanierController extends Controller
            }
        }
         
-       return view("charrette", compact("total", "remise"));
+       return view("charrette", compact("total", "remise","entrepriseInfos"));
     }
 
     /**

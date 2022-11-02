@@ -3,8 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Article;
-use App\Models\BlogPost;
-use Illuminate\Http\Request;
+use App\Models\EntrepriseInfo;
 
 class AccueilController extends Controller
 {
@@ -21,10 +20,31 @@ class AccueilController extends Controller
 
      // Charger les dernieres BlogPosts
      // $last_blogpost = BlogPost::orderBy('created_at','DESC')->take(3)->get();
-
-     return view('welcome', compact("last_articles", "honnor_article"));
+     $entrepriseInfos = EntrepriseInfo::find(1);
+     
+     return view('welcome', compact("last_articles", "honnor_article", "entrepriseInfos"));
 
     }
 
+
+    // Cette fonction gère la page d'accueil
+
+    public function faq() {
+
+        $entrepriseInfos = EntrepriseInfo::find(1);
+        return view("faq", compact("entrepriseInfos"));
+
+    }
+
+
+
+        // Cette fonction gère la page d'accueil
+
+    public function contact() {
+
+        $entrepriseInfos = EntrepriseInfo::find(1);
+        return view("contact", compact('entrepriseInfos'));
+
+    }
 
 }

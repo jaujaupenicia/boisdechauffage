@@ -33,7 +33,7 @@ Ceci est un projet de vente de bois de chauffage en ligne
  
 
  [x] Admin : Integrer la template admin
- [x] Admin : Configurer les routes adminb
+ [x] Admin : Configurer les routes admin
  [x] Admin : Configs des infos statique de l'entreprise
  [x] Admin : Ajout des produits
  [x] Admin : Details des commandes recues

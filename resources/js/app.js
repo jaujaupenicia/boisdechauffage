@@ -10,7 +10,6 @@ import "../css/responsive.css"
 import $ from "jquery/dist/jquery.min.js"
 window.jQuery = window.$ = $;
 
-
 import Alpine from 'alpinejs';
 window.Alpine = Alpine;
 Alpine.start();

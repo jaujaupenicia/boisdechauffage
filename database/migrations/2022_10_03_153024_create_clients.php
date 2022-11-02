@@ -21,6 +21,7 @@ return new class extends Migration
             $table->string("telephone", 255)->nullable();
             $table->string("adresse", 255)->nullable();
             $table->string("password", 255);
+            $table->boolean("isAdmin")->default(false);
             $table->string("lien_whatsapp")->nullable();
             $table->timestamps();
         });

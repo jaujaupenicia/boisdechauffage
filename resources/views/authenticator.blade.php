@@ -27,7 +27,7 @@
               <input type="email" placeholder="Entrez votre email" name="email" :value="old('email')" required>
               <input type="password" placeholder="Saississez votre mot de passe" name="password" required>
             </p>
-            <p><input type="submit" value="se connecter"></p>
+            <p><input type="submit" value="se connecter">  <a href="{{ route('register') }}" style="margin-left: 10px"> vous n'avez pas de compte ? Créez-en un ici </a></p>
           </form> 
         </div>
        </div>
