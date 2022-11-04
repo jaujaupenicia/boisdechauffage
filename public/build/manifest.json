@@ -1,11 +1,11 @@
 {
-  "resources/webfonts/fa-regular-400.eot": {
-    "file": "assets/fa-regular-400.c6df1ff9.eot",
-    "src": "resources/webfonts/fa-regular-400.eot"
-  },
   "resources/webfonts/fa-brands-400.eot": {
     "file": "assets/fa-brands-400.fbe588bb.eot",
     "src": "resources/webfonts/fa-brands-400.eot"
+  },
+  "resources/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400.c6df1ff9.eot",
+    "src": "resources/webfonts/fa-regular-400.eot"
   },
   "resources/webfonts/fa-solid-900.eot": {
     "file": "assets/fa-solid-900.80b515c5.eot",
@@ -15,10 +15,6 @@
     "file": "assets/banner.65eb60fa.jpg",
     "src": "public/img/banner.jpg"
   },
-  "resources/webfonts/fa-regular-400.woff2": {
-    "file": "assets/fa-regular-400.0ecdc618.woff2",
-    "src": "resources/webfonts/fa-regular-400.woff2"
-  },
   "resources/webfonts/fa-brands-400.woff2": {
     "file": "assets/fa-brands-400.eed474a4.woff2",
     "src": "resources/webfonts/fa-brands-400.woff2"
@@ -26,6 +22,14 @@
   "resources/webfonts/fa-solid-900.woff2": {
     "file": "assets/fa-solid-900.f419ad7a.woff2",
     "src": "resources/webfonts/fa-solid-900.woff2"
+  },
+  "resources/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.0ecdc618.woff2",
+    "src": "resources/webfonts/fa-regular-400.woff2"
+  },
+  "resources/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900.e14bf851.woff",
+    "src": "resources/webfonts/fa-solid-900.woff"
   },
   "resources/webfonts/fa-regular-400.woff": {
     "file": "assets/fa-regular-400.9f982c59.woff",
@@ -35,25 +39,21 @@
     "file": "assets/fa-brands-400.eb098ff1.woff",
     "src": "resources/webfonts/fa-brands-400.woff"
   },
-  "resources/webfonts/fa-solid-900.woff": {
-    "file": "assets/fa-solid-900.e14bf851.woff",
-    "src": "resources/webfonts/fa-solid-900.woff"
+  "resources/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.8f7bc93b.ttf",
+    "src": "resources/webfonts/fa-regular-400.ttf"
+  },
+  "resources/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.2e9112db.ttf",
+    "src": "resources/webfonts/fa-solid-900.ttf"
   },
   "public/img/banner-single.jpg": {
     "file": "assets/banner-single.c336e68a.jpg",
     "src": "public/img/banner-single.jpg"
   },
-  "resources/webfonts/fa-regular-400.ttf": {
-    "file": "assets/fa-regular-400.8f7bc93b.ttf",
-    "src": "resources/webfonts/fa-regular-400.ttf"
-  },
   "resources/webfonts/fa-brands-400.ttf": {
     "file": "assets/fa-brands-400.b52e4192.ttf",
     "src": "resources/webfonts/fa-brands-400.ttf"
-  },
-  "resources/webfonts/fa-solid-900.ttf": {
-    "file": "assets/fa-solid-900.2e9112db.ttf",
-    "src": "resources/webfonts/fa-solid-900.ttf"
   },
   "resources/webfonts/fa-regular-400.svg": {
     "file": "assets/fa-regular-400.7028d257.svg",
@@ -117,13 +117,8 @@
     "src": "resources/js/jquery.meanmenu.min.js",
     "isEntry": true
   },
-  "resources/js/sticker.js": {
-    "file": "assets/sticker.06fba33b.js",
-    "src": "resources/js/sticker.js",
-    "isEntry": true
-  },
   "resources/js/main.js": {
-    "file": "assets/main.ae40a8a8.js",
+    "file": "assets/main.2df87b1e.js",
     "src": "resources/js/main.js",
     "isEntry": true
   },
@@ -150,12 +145,12 @@
     "file": "assets/responsive.fc1d7e9b.css",
     "src": "responsive.css"
   },
-  "resources/js/app.css": {
-    "file": "assets/app.20444126.css",
-    "src": "resources/js/app.css"
-  },
   "resources/js/admin.css": {
     "file": "assets/admin.8abec552.css",
     "src": "resources/js/admin.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.20444126.css",
+    "src": "resources/js/app.css"
   }
 }

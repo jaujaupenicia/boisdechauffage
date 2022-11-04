@@ -62,7 +62,7 @@
 						</div>
 						<div class="content">
 							<h3>Remboursé</h3>
-							<p>Satifait ou remboursé</p>
+							<p>Satisfait ou remboursé</p>
 						</div>
 					</div>
 				</div>
@@ -79,7 +79,7 @@
 				<div class="col-lg-8 offset-lg-2 text-center">
 					<div class="section-title">	
 						<h3><span class="orange-text">Nos</span> Produits</h3>
-						<p>Découvrez un gamme varié de bois de chauffage, Idéal pour vos cheminée et vos besoins</p>
+						<p>Découvrez un gamme varié de bois de chauffage, Idéal pour vos cheminées et vos besoins</p>
 					</div>
 				</div>
 			</div>

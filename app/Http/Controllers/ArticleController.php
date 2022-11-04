@@ -101,9 +101,13 @@ class ArticleController extends Controller
      * @param  \App\Models\Article  $article
      * @return \Illuminate\Http\Response
      */
-    public function edit(Article $article)
+    public function edit($id)
     {
         // Pour l'administrateur 
+
+        $article = Article::find($id);
+
+        return view("admin.produits.update_article", compact("article"));
         
     }
 
@@ -114,9 +118,23 @@ class ArticleController extends Controller
      * @param  \App\Models\Article  $article
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Article $article)
+    public function update(Request $request,  $id)
     {
         // Pour l'administrateur 
+        $article = Article::find($id);
+        $article->update([
+            'nom' => $request->nom,
+            'description' => $request->description,
+            'prix' => $request->prix,
+            'en_promo' => $request->en_promo,
+            'stock_dispo' => $request->stock_dispo,
+            'prix_promo' => $request->prix_promo,
+            'image_article' => request()->file('photo')->storeAs('public/images' . '/speciality__' . rand(), 'photo_speciality__'. rand(). '.' . request()->file('photo')->guessExtension() ),
+            'created_at' => now(),
+            'updated_at' => now()
+        ]);
+
+        return redirect(Route('admin.dashboad'));
         
     }
 

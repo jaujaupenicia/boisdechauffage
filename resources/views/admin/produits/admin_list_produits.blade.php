@@ -68,7 +68,7 @@
 
                                     <td>
                                         <a href="#" class="btn btn-primary btn-sm">Détail</a>
-                                        <a href="#"  class="btn btn-warning btn-sm">Editer</a>
+                                        <a href="{{ route('article.edit', ['article'=> $item->id]) }} "  class="btn btn-warning btn-sm">Editer</a>
                                     </td>
                                 </tr>
 

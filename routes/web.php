@@ -36,7 +36,7 @@ Route::get('/boutique', [ArticleController::class, "index"])->name("shop");
 
 Route::get('/detail/{produit}', [ArticleController::class, "show"])->name("detail.produit");
 
-Route::resource('article', ArticleController::class)->only([ 'create', 'store', 'update', 'destroy']);
+Route::resource('article', ArticleController::class)->only([ 'create', 'store', 'edit' ,'update', 'destroy']);
 
 Route::post('/ajouter-au-panier', 
 [PanierController::class, "store"])->middleware(['auth', 'verified'])->name("panier");
