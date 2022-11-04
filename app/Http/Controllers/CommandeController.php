@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Client;
 use App\Models\Commande;
+use App\Models\EntrepriseInfo;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
@@ -26,6 +27,8 @@ class CommandeController extends Controller
      */
     public function create()
     {
+        $entrepriseInfos = EntrepriseInfo::find(1);
+
         $total = 0 ; 
         $remise = 40;
         $cart = session()->get('cart');
@@ -36,9 +39,9 @@ class CommandeController extends Controller
             }
         } else {
             
-          return view("charrette", compact("total", "remise"));
+          return view("charrette", compact("total", "remise", "entrepriseInfos"));
         }
-        return view("checkout", compact("total", "remise"));
+        return view("checkout", compact("total", "remise", "entrepriseInfos"));
     }
 
     /**
@@ -49,10 +52,12 @@ class CommandeController extends Controller
      */
     public function store(Request $request)
     {
+        $entrepriseInfos = EntrepriseInfo::find(1);
+        $contact = $entrepriseInfos->telephone;
         $client = Client::find(Auth::user()->id);
         $client->lancerCommande($request);
         // On est sensé envoyé un email
-        return Redirect('https://wa.me/22961734777');
+        return Redirect('https://wa.me/' . $contact);
        
     }
 

@@ -17,8 +17,8 @@
 							<p class="subtitle">Bois de chauffage</p>
 							<h1>Découvrez la qualité .. </h1>
 							<div class="hero-btns">
-								<a href="shop.html" class="boxed-btn">Voir la collection</a>
-								<a href="contact.html" class="bordered-btn"> Contactez nous </a>
+								<a href="{{ route('shop') }}" class="boxed-btn">Voir la collection</a>
+								<a href="{{ route('contact') }}" class="bordered-btn"> Contactez nous </a>
 							</div>
 						</div>
 					</div>
