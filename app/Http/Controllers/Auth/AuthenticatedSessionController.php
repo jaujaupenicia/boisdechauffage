@@ -31,7 +31,7 @@ class AuthenticatedSessionController extends Controller
         // dd($request);
         $request->authenticate();
         $request->session()->regenerate();
-        return redirect()->intended(Route("roleRedirector"));
+        return redirect()->intended(Route("home"));
     }
 
     /**

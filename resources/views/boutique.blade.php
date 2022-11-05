@@ -12,7 +12,7 @@
 					<div class="col-lg-8 offset-lg-2 text-center">
 						<div class="breadcrumb-text">
 							<p>Bois de chauffage</p>
-							<h1>Boutiques</h1>
+							<h1>Boutique</h1>
 						</div>
 					</div>
 				</div>

@@ -103,7 +103,7 @@
 												<div class="price-box">
 														<div class="inner-price">
 																	<span class="price">
-																			<strong>30%</strong> <br> off per kg
+																			<strong>30%</strong> <br> offert par kg
 																	</span>
 															</div>
 													</div>

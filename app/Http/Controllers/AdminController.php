@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Client;
 use App\Models\Article;
 use App\Models\Commande;
-use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Gate;
 
 class AdminController extends Controller
 {
@@ -20,6 +20,11 @@ class AdminController extends Controller
 
     public function entryAdmin()
     {
+      
+        if (!Gate::allows("admin-access")) {
+           return redirect()->intended(Route("home"));
+        }
+
         $commandes = Commande::all()->take(6);
         return view('admin.admin_dashbord', compact('commandes'));
     }
@@ -28,6 +33,11 @@ class AdminController extends Controller
 
     public function listProduct()
     {
+            
+        if (!Gate::allows("admin-access")) {
+            return redirect()->intended(Route("home"));
+        }
+
         $produits = Article::all();
         return view('admin.produits.admin_list_produits', compact('produits'));
     }
@@ -36,6 +46,11 @@ class AdminController extends Controller
 
     public function listCommandes()
     {
+            
+        if (!Gate::allows("admin-access")) {
+            return redirect()->intended(Route("home"));
+        }
+
         $commandes = Commande::all();
         return view('admin.commande.list_commande', compact('commandes'));
     }
@@ -44,6 +59,11 @@ class AdminController extends Controller
 
     public function listClients()
     {
+            
+        if (!Gate::allows("admin-access")) {
+            return redirect()->intended(Route("home"));
+        }
+
         $clients = Client::all();
         return view('admin.clients.list_clients', compact('clients'));
     }

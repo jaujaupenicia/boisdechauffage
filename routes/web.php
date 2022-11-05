@@ -22,12 +22,12 @@ use App\Models\EntrepriseInfo;
 |
 */
 
-Route::get('/redirect-by-role', function() {
-    $user = Client::find(Auth::user()->getAuthIdentifier());
-    $routeTarget = null;
-    $user->isAdmin ? $routeTarget = "admin.dashboad"  :  $routeTarget = "home" ;
-    return redirect()->intended(Route($routeTarget));
-})->middleware(['auth', 'verified'])->name('roleRedirector');
+// Route::get('/redirect-by-role', function() {
+//     $user = Client::find(Auth::user()->getAuthIdentifier());
+//     $routeTarget = null;
+//     $user->isAdmin ? $routeTarget = "admin.dashboad"  :  $routeTarget = "home" ;
+//     return redirect()->intended(Route($routeTarget));
+// })->middleware(['auth', 'verified'])->name('roleRedirector');
 
 
 Route::get('/', [AccueilController::class, "echauffageHomeManager"])->name("home");
